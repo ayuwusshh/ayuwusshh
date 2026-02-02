@@ -1,8 +1,57 @@
-## Hi there, I am Ayush Kumar Singh👋
+## Hi there, I’m Ayush Kumar Singh 👋
 
-# 💫 About Me:
-Enthusiastic Computer Science undergraduate with a strong foundation in DSA, full-stack development, and cloud <br>infrastructure. Experienced in AWS projects, hackathons, and building scalable tech solutions. Passionate about sharing <br>knowledge with the developer community on LinkedIn.
+🚀 Computer Science undergraduate who loves building **real-world, scalable full-stack applications**.  
+Strong foundation in **DSA, MERN stack, cloud deployment**, and hands-on experience through projects, hackathons, and continuous learning.  
+I enjoy breaking complex problems into clean, practical solutions — and sharing what I learn with the dev community on LinkedIn.
 
+---
+
+## 🚀 Currently Working On
+### 🔥 CollabSuite
+A full-stack **collaboration & productivity platform** designed for modern teams.
+
+**Key Features:**
+- Real-time collaboration
+- Video conferencing using **WebRTC**
+- Secure authentication & role-based access
+- Scalable backend architecture
+- Clean, responsive frontend
+
+**Tech Stack:**  
+React · Node.js · Express · MongoDB · WebRTC · Socket.io · AWS · Vercel
+
+> CollabSuite is focused on solving real collaboration pain points while maintaining performance, scalability, and clean UX.
+
+---
+
+## 🧠 Featured Projects
+### 🔹 CollabSuite (Flagship Project)
+- All-in-one collaboration platform for teams
+- Real-time video & communication features
+- Built with scalability and production readiness in mind  
+🔗 Live Demo (coming soon) | 📂 GitHub Repo
+
+### 🔹 Full-Stack MERN Applications
+- Authentication, REST APIs, dashboards
+- Deployed on AWS / Vercel / Netlify
+- Focus on clean architecture & maintainability
+
+---
+
+## 🌱 Currently Learning
+- System Design fundamentals
+- Backend scalability & performance optimization
+- Advanced React patterns & state management
+
+---
+
+## 🤝 Open to Collaborate On
+- Full-stack MERN projects
+- Real-time applications (WebRTC / Socket.io)
+- Open-source contributions
+- Hackathons & startup-oriented ideas
+
+---
 
 ## 🌐 Socials:
 [![Leetcode](https://img.shields.io/badge/Leetcode-%23000000.svg?logo=Leetcode&logoColor=orange)](https://leetcode.com/u/Ayush-3504/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ayuwushh/)[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushsingh0603/)[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/user/Equal_Aide_1776/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ayuwushhh) 
@@ -19,7 +68,7 @@ Enthusiastic Computer Science undergraduate with a strong foundation in DSA, ful
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
-**AryanS983/AryanS983** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ayuwusshh /ayuwusshh ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
