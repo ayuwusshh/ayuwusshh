@@ -47,6 +47,12 @@ A production-ready AI-powered web application built using the MERN stack.
 🚀 Live Demo: [QuickAI](https://quick-ai-7ayh.vercel.app/)
 
 ---
+## 🏆 Hackathon Achievement
+- 🥈 **1st Runner-Up – Team The Blocksmiths**  
+  Built **Just InTime**, a resilient proxy-based testing platform validating infrastructure and business logic in real time.  
+  My contributions included designing n8n automation workflows, integrating Gemini API for semantic validation, and implementing an autonomous monitoring agent with kill-switch behavior.  
+  📂 GitHub Repo: [Just-In-Time](https://github.com/ayuwusshh/Just-In-Time)
+---
 
 ## 🌱 Currently Learning
 - Data Structures & Algorithms (problem-solving, patterns, optimization)
