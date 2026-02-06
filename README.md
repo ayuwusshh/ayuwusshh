@@ -96,9 +96,7 @@ A production-ready AI-powered web application built using the MERN stack.
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayuwusshh&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 <!-- GitHub Widget Box -->
-<a href="https://github.com/ayuwusshh">
-  <img src="https://github-widgetbox.vercel.app/api/profile?username=ayuwusshh&data=followers,repositories,stars,commits&theme=nautilus" alt="GitHub Profile Widget"/>
-</a>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
